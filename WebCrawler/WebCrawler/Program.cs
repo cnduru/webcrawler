@@ -18,7 +18,7 @@ namespace WebCrawler
             string src = wbc.DownloadString("http://www.youtube.com/robots.txt");
             string[] lines = src.Split('\n');
 
-            List<String> disallowedSites = wc.GetDisallowedSites(lines, "Xenu");
+            List<String> disallowedSites = wc.GetDisallowedSites(lines, "*");
             List<String> frontier = wc.FetchUrlsFromSource("http://www.youtube.com");
             int x = 5;
         }
