@@ -1,0 +1,6 @@
+c:\users\avalon\documents\visual studio 2012\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+c:\users\avalon\documents\visual studio 2012\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cache
+c:\users\avalon\documents\visual studio 2012\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+c:\users\avalon\documents\visual studio 2012\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+c:\users\avalon\documents\visual studio 2012\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+c:\users\avalon\documents\visual studio 2012\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
